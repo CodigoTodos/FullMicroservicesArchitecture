@@ -1,4 +1,4 @@
-package com.brunoalves.OrderService.external.client.response;
+package com.brunoalves.OrderService.external.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

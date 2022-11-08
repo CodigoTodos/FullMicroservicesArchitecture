@@ -1,8 +1,8 @@
-package com.brunoalves.OrderService.external.client.decoder;
+package com.brunoalves.OrderService.external.decoder;
 
 
 import com.brunoalves.OrderService.exception.CustomException;
-import com.brunoalves.OrderService.external.client.response.ErrorResponse;
+import com.brunoalves.OrderService.external.response.ErrorResponse;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import feign.Response;
 import feign.codec.ErrorDecoder;
