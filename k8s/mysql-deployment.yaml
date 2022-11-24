@@ -59,7 +59,7 @@ spec:
           name: mysql
         env:
           - name: MYSQL_ROOT_PASSWORD
-            value: MySql2022--++
+            value: root
         volumeMounts:
         - name: mysql-initdb
           mountPath: /docker-entrypoint-initdb.d
